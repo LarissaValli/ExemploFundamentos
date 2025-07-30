@@ -9,3 +9,4 @@ C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\ob
 C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\refint\ExemploFundamentos.Commom.dll
 C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.pdb
 C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\ref\ExemploFundamentos.Commom.dll
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.sourcelink.json

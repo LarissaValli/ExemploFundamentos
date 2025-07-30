@@ -16,3 +16,4 @@ C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos\obj\Debug
 C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.pdb
 C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.genruntimeconfig.cache
 C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos\obj\Debug\net9.0\ref\ExemploFundamentos.dll
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.sourcelink.json
