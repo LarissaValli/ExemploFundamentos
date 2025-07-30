@@ -1,0 +1,11 @@
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\bin\Debug\net9.0\ExemploFundamentos.Commom.deps.json
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\bin\Debug\net9.0\ExemploFundamentos.Commom.dll
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\bin\Debug\net9.0\ExemploFundamentos.Commom.pdb
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.AssemblyInfoInputs.cache
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.AssemblyInfo.cs
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.csproj.CoreCompileInputs.cache
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.dll
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\refint\ExemploFundamentos.Commom.dll
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.pdb
+C:\Users\lads_\Documents\Estudos\ExemploFundamentos\ExemploFundamentos.Commom\obj\Debug\net9.0\ref\ExemploFundamentos.Commom.dll
